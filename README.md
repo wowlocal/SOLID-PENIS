@@ -48,4 +48,6 @@ if {
 - CONTEXT IS HARD TO UNDERSTAND
 - PEOPLE HATE YOU...
 ### Inheritance plane
+INHERITANCE IN WIDTH IS MORE PREFERABLE THAN IN DEPTH
 ### Style guide compliance
+[FIND OUT](https://github.com/raywenderlich/swift-style-guide)
