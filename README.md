@@ -10,11 +10,11 @@ SOLID PENIS commonly used with [PIDOR](https://github.com/ApplePride/PIDOR)
 * [Interface segregation principle](#the-interface-segregation-principle)
 * [Dependency inversion principle](#the-dependency-inversion-principle)
 
-* Polymorphism
-* Encapsulation
-* Nested avoidance principle
-* Inheritance plane
-* Style guide compliance
+* [Polymorphism](#polymorphism)
+* [Encapsulation](#encapsulation)
+* [Nested avoidance principle](#nested-avoidance-principle)
+* [Inheritance plane](#inheritance-plane)
+* [Style guide compliance](#style-guide-compliance)
 
 ## Description
 ### Single responsibility principle
@@ -28,4 +28,8 @@ CLIENTS SHOULD NOT BE FORCED TO DEPEND UPON INTERFACES THAT THEY DO NOT USE.
 ### The Dependency Inversion Principle
 A. HIGH LEVEL MODULES SHOULD NOT DEPEND UPON LOW LEVEL MODULES. BOTH SHOULD DEPEND UPON ABSTRACTIONS.
 B. ABSTRACTIONS SHOULD NOT DEPEND UPON DETAILS. DETAILS SHOULD DEPEND UPON ABSTRACTIONS.
-
+### Polymorphism
+### Encapsulation
+### Nested avoidance principle
+### Inheritance plane
+### Style guide compliance
