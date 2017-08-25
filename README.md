@@ -5,7 +5,7 @@ SOLID PENIS commonly used with [PIDOR](https://github.com/ApplePride/PIDOR)
 
 ## Overview
 * [Single responsibility principle](#single-responsibility-principle)
-* [Open/closed principle](#open/closed-principle)
+* [Open/closed principle](#open-closed-principle)
 * [Liskov substitution principle](#the-liskov-substitution-principle)
 * [Interface segregation principle](#the-interface-segregation-principle)
 * [Dependency inversion principle](#the-dependency-inversion-principle)
@@ -19,7 +19,7 @@ SOLID PENIS commonly used with [PIDOR](https://github.com/ApplePride/PIDOR)
 ## Description
 ### Single responsibility principle
 THERE SHOULD NEVER BE MORE THAN ONE REASON FOR A CLASS TO CHANGE
-### Open/closed principle
+### Open closed principle
 SOFTWARE ENTITIES (CLASSES, MODULES, FUNCTIONS, ETC.) SHOULD BE OPEN FOR EXTENSION, BUT CLOSED FOR MODIFICATION.
 ### The Liskov Substitution Principle
 FUNCTIONS THAT USE POINTERS OR REFERENCES TO BASE CLASSES MUST BE ABLE TO USE OBJECTS OF DERIVED CLASSES WITHOUT KNOWING IT.
