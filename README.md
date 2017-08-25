@@ -16,6 +16,6 @@ SOLID PENIS commonly used with [PIDOR](https://github.com/ApplePride/PIDOR)
 * Inheritance plane
 * Style guide compliance
 
-### Description
+# Description
 Single responsibility principle
 THERE SHOULD NEVER BE MORE THAN ONE REASON FOR A CLASS TO CHANGE
