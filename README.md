@@ -1,4 +1,4 @@
-# SOLID-PENIS
+# SOLID PENIS
 The best iOS design principles
 
 SOLID PENIS commonly used with [PIDOR](https://github.com/ApplePride/PIDOR)
@@ -17,5 +17,5 @@ SOLID PENIS commonly used with [PIDOR](https://github.com/ApplePride/PIDOR)
 * Style guide compliance
 
 # Description
-Single responsibility principle
+### Single responsibility principle
 THERE SHOULD NEVER BE MORE THAN ONE REASON FOR A CLASS TO CHANGE
