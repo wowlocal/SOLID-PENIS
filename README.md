@@ -9,9 +9,7 @@ SOLID PENIS commonly used with [PIDOR](https://github.com/ApplePride/PIDOR)
 * [Liskov substitution principle](#the-liskov-substitution-principle)
 * [Interface segregation principle](#the-interface-segregation-principle)
 * [Dependency inversion principle](#the-dependency-inversion-principle)
-
-
-
+*
 * [Polymorphism](#polymorphism)
 * [Encapsulation](#encapsulation)
 * [Nested avoidance principle](#nested-avoidance-principle)
