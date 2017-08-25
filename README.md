@@ -44,8 +44,8 @@ if {
   }
 }
 ```
-THIS CODE IS HARD TO READ
-CONTEXT IS HARD TO UNDERSTAND
-PEOPLE HATE YOU...
+- THIS CODE IS HARD TO READ
+- CONTEXT IS HARD TO UNDERSTAND
+- PEOPLE HATE YOU...
 ### Inheritance plane
 ### Style guide compliance
