@@ -4,7 +4,7 @@ The best iOS design principles
 SOLID PENIS commonly used with [PIDOR](https://github.com/ApplePride/PIDOR)
 
 ### Overview
-* Single responsibility principle
+* [Single responsibility principle](###)
 * Open/closed principle
 * Liskov substitution principle
 * Interface segregation principle
@@ -16,6 +16,6 @@ SOLID PENIS commonly used with [PIDOR](https://github.com/ApplePride/PIDOR)
 * Inheritance plane
 * Style guide compliance
 
-# Description
+## Description
 ### Single responsibility principle
 THERE SHOULD NEVER BE MORE THAN ONE REASON FOR A CLASS TO CHANGE
